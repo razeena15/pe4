@@ -15,4 +15,10 @@ public class ReplaceTest {
         assertEquals("The expected answer is","faity fry",result);
     }
 
+    @Test
+    public void replaceWord1()
+    {
+        String result=r.replaceWord("dimple dude");
+        assertEquals("The expected answer is","fimpte fufe",result);
+    }
 }
