@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f21640fd-5197-464f-9766-12d2828806d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Occurence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Replace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/PresenceOfHarryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/Occurence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/Replace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/AppTest.class" beforeDir="false" />
+
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/ReplaceTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,32 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/WordsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Words.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+
             </state>
           </provider>
         </entry>
@@ -59,7 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
+
         <option value="Class" />
       </list>
     </option>
@@ -70,39 +40,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Replace.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Occurence.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceTest.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Multiple.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/WordsTrial.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/WordsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Words.java" />
-      </list>
-    </option>
+
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="823" />
-    <option name="height" value="827" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -162,21 +108,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546405154522" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.stackroute" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,34 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WordsTest">
-    <configuration name="Occurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Occurence" />
-      <module name="pe4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordsTrial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.WordsTrial" />
-      <module name="pe4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReplaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+
       <module name="pe4" />
       <extension name="coverage">
         <pattern>
@@ -226,24 +135,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.ReplaceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReplaceTest.replaceWord1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pe4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.ReplaceTest" />
-      <option name="METHOD_NAME" value="replaceWord1" />
-      <option name="TEST_OBJECT" value="method" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -265,11 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WordsTest" />
-        <item itemvalue="Application.WordsTrial" />
-        <item itemvalue="JUnit.ReplaceTest.replaceWord1" />
-        <item itemvalue="JUnit.ReplaceTest" />
-        <item itemvalue="Application.Occurence" />
+
       </list>
     </recent_temporary>
   </component>
@@ -278,20 +166,43 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f21640fd-5197-464f-9766-12d2828806d5" name="Default Changelist" comment="" />
-      <created>1546251468944</created>
+
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546251468944</updated>
+      <updated>1546259286805</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReplaceTest - 2018.12.31 at 16h 43m 01s.xml">
-      <configuration name="ReplaceTest" configurationId="JUnit" />
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 10m 29s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReplaceTest_replaceWord1 - 2018.12.31 at 17h 08m 08s.xml">
-      <configuration name="ReplaceTest.replaceWord1" configurationId="JUnit" />
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 10m 54s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 11m 13s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 11m 49s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 13m 29s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 14m 56s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 15m 41s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 16m 04s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 16m 20s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultipleTest - 2018.12.31 at 18h 16m 33s.xml">
+      <configuration name="MultipleTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WordsTest - 2019.01.02 at 09h 30m 39s.xml">
       <configuration name="WordsTest" configurationId="JUnit" />
@@ -301,26 +212,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1533" height="875" extended-state="7" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
+
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -332,81 +224,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Replace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Multiple.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Occurence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/WordsTrial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/PresenceOfHarryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Words.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/WordsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+
         </state>
       </provider>
     </entry>
