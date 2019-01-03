@@ -1,6 +1,6 @@
 package com.stackroute;
 
-import org.graalvm.compiler.word.Word;
+//import org.graalvm.compiler.word.Word;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -9,21 +9,25 @@ import static org.junit.Assert.*;
 
 public class WordsTest {
 
-    Words a1;
+    Words words;
     @Before
     public void setUp() throws Exception {
-        a1=new Words();
+        words=new Words();
     }
 
     @After
     public void tearDown() throws Exception {
-        a1=null;
+        words=null;
     }
 
     @Test
-    public void sortWords() {
-        String[] str={"aih, ihst is acekorsttu"};
-        String[] str1={"hai, this is stackroute"};
-        assertArrayEquals(str,Words.sortWords(str1));
+    public void sortWordsOne() {
+        String s = "elephant is a animal";
+
+        String[] str = {"a", "animal", "elephant", "is"};
+
+        String[] str1=words.sortWords(s);
+
+        assertArrayEquals(str, str1);
     }
 }
